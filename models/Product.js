@@ -1,4 +1,3 @@
-// models/Product.js
 const { Model, DataTypes } = require('sequelize');
 const sequelize = require('../config/connection.js');
 const Category = require('./Category'); // Import the Category model
